@@ -67,8 +67,8 @@ bash
 
 ## Related Project
 
-⚡[Backend Blanja](https://github.com/abdulnaim6/fwm17-be-peword)⚡
+⚡[Backend Peworld](https://github.com/abdulnaim6/fwm17-be-peword)⚡
 
-⚡[Frontend Blanja](https://github.com/abdulnaim6/Fe_peworld)⚡
+⚡[Frontend Peworld](https://github.com/abdulnaim6/Fe_peworld)⚡
 
 ⚡[Demo Peworld]()⚡
